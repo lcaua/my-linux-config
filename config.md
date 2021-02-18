@@ -9,4 +9,4 @@ sudo apt-get install git, sudo apt-get install zsh
 ---
 
 # sugestões
-###instalar o nvm (para instalação do node)
+instalar o nvm (para instalação do node)
