@@ -3,12 +3,11 @@ https://github.com/ohmyzsh/ohmyzsh
 
 ---
 
-#comandos
+# comandos
 sudo apt-get install git
 sudo apt-get install zsh
 
 ---
 
-#sugestões
-
-instalar o nvm
+# sugestões
+instalar o nvm (para instalação do node)
